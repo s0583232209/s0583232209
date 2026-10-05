@@ -38,5 +38,5 @@ An ambitious and analytical Software Engineering student with a strong passion f
 ---
 
 ### 🤝 Connect with Me
-- 📧 **Email:** s0583232209@gmail.com
+- 📧 **Email:** sarah.fink209@gmail.com
 - 💼 **Looking for:** Student positions or internships in Software Engineering, AI/ML Development, and Technology Innovation.
