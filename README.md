@@ -1,21 +1,25 @@
-# Hi there, I'm Sara Fink 👋
+# Hi there, I'm Sarah Fink 👋
 
-### 🚀 Software Engineering Student | AI & Deep Learning Enthusiast | Full-Stack Developer
+### 🚀 Software Engineer | AI & Deep Learning Enthusiast | Full-Stack Developer
 
-An ambitious and analytical Software Engineering student with a strong passion for Artificial Intelligence, Deep Learning, and data-driven technologies. Experienced in building end-to-end web applications and training complex neural networks. Proven track record of academic excellence and a high capacity for self-learning.
+An ambitious and analytical graduated Software Engineer with a strong passion for Artificial Intelligence, Deep Learning, and data-driven technologies. Experienced in building end-to-end web applications and training complex neural networks. Proven track record of academic excellence and a high capacity for self-learning.
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
 - **Languages:** Python, Java, C++, C#, C, JavaScript, Assembly
-- **AI & Deep Learning:** PyTorch, WEKA, Data Mining, Sequence Modeling (LSTM)
-- **Web Development:** React, Node.js, Express, HTML5, CSS3, REST APIs
+- **AI & Deep Learning:** PyTorch, WEKA, Data Mining, Sequence Modeling (LSTM), LM-C#
+- **Web Development:** React, Node.js, Express, Spring-boot, HTML5, CSS3, REST APIs
 - **Databases:** MySQL, SQL Server, Relational Database Design
 - **Tools & Environments:** Git, GitHub, Linux, VS Code, PyCharm, Visual Studio, IntelliJ
 
 ---
+###Current Position###:
 
+- Full-Stack developer for Seminar Maalot - freelace project
+- Studing in Google - Raichman AI tech school
+- Intership in READY R&D - emmbeded 
 ### 💻 Featured Projects
 
 #### 🧠 Deep Learning & Sequence Modeling
@@ -39,4 +43,4 @@ An ambitious and analytical Software Engineering student with a strong passion f
 
 ### 🤝 Connect with Me
 - 📧 **Email:** sarah.fink209@gmail.com
-- 💼 **Looking for:** Student positions or internships in Software Engineering, AI/ML Development, and Technology Innovation.
+- 💼 **Looking for:** Junior position in Software Engineering, AI/ML Development, and Technology Innovation.
