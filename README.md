@@ -15,7 +15,8 @@ An ambitious and analytical graduated Software Engineer with a strong passion fo
 - **Tools & Environments:** Git, GitHub, Linux, VS Code, PyCharm, Visual Studio, IntelliJ
 
 ---
-###Current Position###:
+
+### Current Position ###:
 
 - Full-Stack developer for Seminar Maalot - freelace project
 - Studing in Google - Raichman AI tech school
