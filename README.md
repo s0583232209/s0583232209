@@ -16,7 +16,7 @@ An ambitious and analytical graduated Software Engineer with a strong passion fo
 
 ---
 
-### Current Position ###:
+### Current Position:
 
 - Full-Stack developer for Seminar Maalot - freelace project
 - Studing in Google - Raichman AI tech school
